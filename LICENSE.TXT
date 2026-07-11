@@ -1,0 +1,42 @@
+ElliotB Public Domain License
+WHERE FREEDOM IS REAL FREEDOM
+
+COPYDOWN 2026 ELLIOTB LICENSE PROJECT
+
+Dedicated to the Free Software Movement by ElliotB as a license
+to dedicate and of your works under this license.
+
+You are given this license as an optional license to put in your software.
+You are allowed to do whatever you want with the EPDL license.
+
+The author dedicates this work, and all code under this license, to the
+public domain, with no copyright restrictions, to the fullest extent,
+permitted by copyright law.
+
+Under all copyright laws, this work will have all rights waived to the public domain,
+with this license being a bullet-proof dedication of the author's copyright
+interests to the fullest extent allowed by law.
+
+There will be no restrictions, and no limitations on the usage, modification,
+distribution, of this software, even in private, noncommercial or commercial use.
+
+If you wish to contribute, you allow these contributions to be made under the
+EPDL License, as this is meant to be like SQLite's license but more bulletproof &
+flexible.
+
+In the event that any part of this dedication is not legally effective in your jurisdiction,
+then the fallback license will be the BSD-0-Clause, where you are given all rights,
+with no attribution requirements.
+
+The software is provided as-is with no liability, or warranty.
+You can do whatever you want, be it distributing it, using it anytime, rewriting it,
+implementing it, reciting it, whatever.
+
+You are granted all rights to use, modify, distribute, and perform the work,
+and any work(s) under this license, without restrictions by copyright law.
+
+You can do anything under this "copydown" license.
+The work(s) under this license is everyone's.
+It's also yours. 
+And your neighbor's.
+And your dog's.
