@@ -1,0 +1,113 @@
+EAT SHIT AND DIE LICENSE
+ELLIOTB 2026, PART OF THE TOOLCHAIN PROJECT
+(Version 1.0, by ElliotB & no one else)
+
+
+PREAMBLE
+
+This is the ESD license.
+It's a BSD-inspired License made entirely in Neovim.
+Modifications to the License text is allowed.
+
+The ESD License is more of a new, freshly-baked license
+that was self-written for most of ElliotB's projects.
+
+It was made to act as a permissive-ish license that lets you work on it.
+
+Though, you can use it for your projects.
+It's meant for anything, be it images, paintings, fonts, music, code, etc.
+It's made best for software, but go ahead and use it anywhere!
+
+WORDING NOTICE
+
+This is to show what each of these shit mean.
+
+ NAME               | WHAT IT MEANS
+ ESD LICENSE        | THE NAMESAKE LICENSE
+ COPYRIGHT OWNER(S) | THE COPYRIGHT OWNER(S)
+ LICENSOR           | THE PERSON GIVING YOU THIS LICENSE
+ LICENSEE           | YOU. YES, YOU. THIS IS FOR YOU.
+ WORK               | THE WORK OF THE WORK
+ CONTRIBUTORS       | PEOPLE (NOT COPYRIGHT OWNER[S]) WHO WORKED ON THIS
+
+LICENSE
+
+© YEAR | NAME OF AUTHOR | Rights are all to you when following this license.
+
+You can distribute, edit, copy, sell, sublicense, 
+cripple, erase, retract, eat, obfuscate, concern,
+and/or recite the source code, binary code, art, any creation, whatever under 
+the following Conditions:
+
+(1) Redistributions in Binary Code, Source Code, Library, etc, 
+must retain the above COPYRIGHT NOTICE, LICENSE FILE, and
+the DISCLAIMER (shown past condition 5), or credit the COPYRIGHT OWNER(s)
+
+(2) Anything that is under this license, allows that you can change it
+however you like. I'd personally like to modify the code used in repos
+but I have to deal with copyleft & it's problems.
+
+(3) Neither the name of the copyright holder nor the names of its contributors 
+may be used to endorse and/or promote products derived from this software,
+without specific prior written permission.
+
+(4) Permissive licenses are fun, take it and enjoy it.
+Source code under this license is, somewhat to an extent, use it & try it out.
+The license is for anyone and anything, so take a snag and use it.
+
+(5) The FreeBSD Project considers permissive licenses as open source licenses.
+This is here since you can change this condition anyways, just placed here for you to make it however you like.
+The license lets you do whatever with the WORK, just provide attribution.
+
+DISCLAIMER
+
+SOURCE CODE, SOFTWARE, AND OTHER SHIT IS PROVIDED AS-IS AND THE COPYRIGHT
+OWNER, CONTRIBUTORS, AND WHOEVER IS PART OF THE UPSTREAM REPO
+ARE NOT RESPONSIBLE FOR WHATEVER YOU DO. YOUR PROBLEMS ARE PROBABLY NOT
+THEIRS, SEATBELTS SAVE LIVES. THIS LICENSE WAS MADE FOR FUN AND SERIOUSNESS.
+
+HOW THE FUCK DO I PUT THE ESD LICENSE IN MY PRODUCT?
+
+If you develop a new program, and you want it to be of 
+the greatest possible use to the public, 
+the best way to achieve this is to make it free software which everyone can redistribute and change however they like.
+
+To do so, attach the following notices to the program. 
+It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; 
+and each file should have at least the “copyright” line and a pointer to where the full notice is found.
+
+    <Please, This is exactly one line to give the program's name and a brief idea of what it does.>
+    Copyright (C) <year>  <name of author>
+
+    This program is free software: you can redistribute it, sell it,
+    sublicense it, whatever you wanna do with it, 
+    under the terms of the ESD License.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+    
+    The LICENSOR should have given you the ESD License.
+    If you have the ESD License, congrats. You're good to go.
+    If you don't, you can find it online, search up "EAT SHIT AND DIE LICENSE".
+
+    Remember: Violating the open source community's ethos will make you a persona-non-grata,
+    and everyone will tell you to:
+    EAT SHIT AND DIE.
+
+Copyleft is bullshit, and under my (and probably some peoples') Open Source Definition;
+Copyleft isn't true open source. The ESD license is permissive so go ahead, use it!
+
+TL;DR
+
+The ESD License is permissive, and it's made that way because...
+I love permissive licenses, and all of you do too.
+Feel free to use it however you like, you can distribute, edit, copy, sell, sublicense, 
+cripple, erase, retract, eat, obfuscate, concern, and/or recite it and then not worry,
+if you credit the creator.
+
+FOR COURTS:
+The EAT SHIT AND DIE license, also known as the ElliotB Software Distribution license, is permissive.
+If this ever ends up in court,
+interpret the license according to the plain meaning of the rights granted above.
+The intent is simple: You can do anything with the work, provided you give attribution.
